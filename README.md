@@ -1,43 +1,7 @@
-# Views & View Containers
+# vscode-bitsrc
+## Very WIP - Help Wanted
 
-This sample demonstrates how to implement and contribute a tree view in VS Code. This includes:
-
-- Contributing views and view containers.
-- Contributing actions in various location of the view.
-- Implementing the tree data provider for the view.
-- Creating and working with the view.
-
-This sample provides following views
-
-- Node dependencies view
-- Ftp file explorer view
-
-Following example shows Node dependencies view in Package Explorer View container.
-
-![Package Explorer](./resources/package-explorer.png)
-
-## VS Code API
-
-This sample uses following contribution points, activation events and APIs
-
-### Contribution Points
-
-- `views`
-- `viewContainers`
-- `menu`
-	- `view/title`
-	- `view/item/context`
-
-### Activation Events
-
-- `onView:${viewId}`
-
-### APIs
-
-- `window.createTreeView`
-- `window.registerTreeDataProvider`
-- `TreeView`
-- `TreeDataProvider`
+![Alt text](./BitSrc.png?raw=true "Bit")
 
 Refer to [Usage](./USAGE.md) document for more details.
 
