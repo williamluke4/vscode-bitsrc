@@ -1,7 +1,7 @@
 # vscode-bitsrc
 ## Very WIP - Help Wanted
 
-![Alt text](./BitSrc.png?raw=true "Bit")
+![vscode-bit](./BitSrc.PNG "Bit")
 
 Refer to [Usage](./USAGE.md) document for more details.
 
